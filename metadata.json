@@ -1,0 +1,6 @@
+{
+  "name": "Moth Lifecycle Simulator",
+  "description": "Trò chơi pixel art 2D mô phỏng vòng đời bướm đêm qua các giai đoạn Sâu đo, Kén, và Bướm đêm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
