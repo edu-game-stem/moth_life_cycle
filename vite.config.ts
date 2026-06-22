@@ -5,7 +5,6 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base:'/moth_life_cycle/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
